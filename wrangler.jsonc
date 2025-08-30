@@ -1,5 +1,5 @@
 {
-rel='noreferrer'  
+"rel": "noreferrer"
 "$schema": "node_modules/wrangler/config-schema.json",
   "name": "sink",
   "main": "dist/server/index.mjs",
